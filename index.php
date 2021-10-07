@@ -2,4 +2,4 @@
 
 /* Index */
 
-echo "Hola desde master";
+echo "Hola desde test_index";
